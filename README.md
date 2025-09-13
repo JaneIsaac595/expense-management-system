@@ -28,3 +28,17 @@ This project is an expense management system that consists of a Streamlit fronte
     ```commandline
     streamlit run frontend/app.py
     ```
+    
+## 📸 Project Screenshots  
+
+### 🏠 Add_Update / Overview  
+![Dashboard Screenshot](images/add_update.png)
+
+### ➕ Analytics_by_Category  
+![Add Expense Screenshot](images/analytics_category.png)
+
+### 📊 Analytics_by_Month  
+![Analytics Screenshot](images/analytics_month.png) 
+
+## Live Demo  
+🔗 [Click here to view the app](https://your-live-link.com) 
