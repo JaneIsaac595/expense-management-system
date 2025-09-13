@@ -32,13 +32,13 @@ This project is an expense management system that consists of a Streamlit fronte
 ## 📸 Project Screenshots  
 
 ### 🏠 Add_Update / Overview  
-![Dashboard Screenshot](images/add_update.png)
+![Add_Update Screenshot](images/add_update.png)
 
 ### ➕ Analytics_by_Category  
-![Add Expense Screenshot](images/analytics_category.png)
+![Analytics_by_Category Screenshot](images/analytics_category.png)
 
 ### 📊 Analytics_by_Month  
-![Analytics Screenshot](images/analytics_month.png) 
+![Analytics_by_Month Screenshot](images/analytics_month.png) 
 
 ## Live Demo  
 🔗 [Click here to view the app](https://your-live-link.com) 
